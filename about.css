@@ -1,0 +1,30 @@
+.infocontainer {
+    height: 50vh;
+    width: 100vw;
+    margin: auto;
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.hello {
+    font-size: 65px;
+}
+
+.name {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.about {
+    font-size: 40px;
+}
+.container{
+   margin-left: 120px;
+}
+footer{
+    background-color: rgb(47, 42, 42);
+    color: azure;
+    padding:3px;
+    text-align: center;
+}

@@ -1,0 +1,43 @@
+.navbar-brand{
+    color:rgb(214, 138, 138) !important;
+}
+
+.active{
+    color:rgb(214, 138, 138) !important;
+}
+.headleft{
+    /* border: 1px solid green; */
+    height: 90vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.headright{
+    /* border: 1px solid rgb(186, 17, 102); */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.headright h1{
+    font-size: 50px;
+    /* color: rgb(46, 243, 46); */
+}
+.headleftimg{
+    height: 70vh;
+    /* border: 2px solid black; */
+}
+.headpoost{
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.headpara{
+    color: grey;
+}
+.projects-img{
+    height: 40vh;
+}
+.bg-primary{
+    color:white;
+    font-size: medium;
+}
